@@ -1,0 +1,40 @@
+v0.1 log:
+- player vs player(completed)
+- help screen(completed)
+- shooting(completed)
+- lives(completed)
+- fixed bugs(completed)
+v0.2 log:
+- much smoother movements(completed)
+- ai vs human(completed)
+- revamp shooting completely(completed)
+- better life decrement(compeleted)
+- options to change : ai difficulty(completed)
+- fixed bugs(completed)
+v0.3 log:
+- obstacles(completed)
+- add moving obstacles(completed)
+- better ai(completed)
+- add boosts: faster boost, more bullets, bigger sized bullets, bigger player size,add hearts; every 6 seconds(completed)
+- boosts sprite images(completed)
+- clean up code(completed)
+- show options(completed)
+- fixed bugs/crash(completed)
+v0.4 log work in progress updates:
+- show bullets left and warn of reload(completed)
+- bullets collide with eachother(completed)
+- change number of lives started with(completed)
+- better boundaries(completed)
+- moved hearts left to top of screen(completed)
+- changed amount of time for boosts to spawn(completed)
+- player sprite images(completed)
+- better boost usage(completed)
+- bullet sprite(completed)
+- ai shooting faster based on difficulty(completed)
+- fixing bugs (completed)
+v0.5 future updates:
+- better/more custom font characters
+- 2 players vs multple ai
+- more options
+- player moving animations: walk,shoot,get shot,reload
+- smarter ai
